@@ -1,5 +1,5 @@
 # chocolate_problems
-
+![chocolate image](https://github.com/mobinmadani8/chocolate_problems/blob/main/chocolate.jpg?raw=true)
 in this simple project we want to solve some problem of chocolate shop
 * in step 1, We will do the preliminary analysis of a dataframe including all the chocolates we have.
 * in step 2, by examining the types of chocolates, we will try to identify those that can be sold and determine their prices.
